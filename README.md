@@ -1,13 +1,13 @@
 # e_Certificates-Code
-The Code is in Python will help you in sending the e-Certificates to the large of participants in a single click
-
-# First step is to Create & use App Passwords. 
-Follow the link below to create App Password:
-https://support.google.com/mail/answer/185833?hl=en
+The Code is in Python will help you in sending the e-Certificates to the large of participants in a single click.
 
 Python code will read the details of the Participants that is Name , Email ID and Certificate Number from the Google Sheet. You can modify the code to read details from excel file also.
 
 Code also saves all the certificates emailed on the google drive path mentioned in the code.
+
+# First step is to Create & use App Passwords. 
+Follow the link below to create App Password:
+https://support.google.com/mail/answer/185833?hl=en
 
 # GOOGLE SHEET TEMPLATE 
 First Column --> Certificate Number
